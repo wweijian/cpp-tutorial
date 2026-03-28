@@ -42,5 +42,5 @@ re : fclean all
 
 # read pedantic
 # read O3
-# wnoshadow
+# wshadow
 
